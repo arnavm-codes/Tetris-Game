@@ -1,3 +1,7 @@
+# I have cloned this repository from github
+# I have added this comment
+# Now ill push these changes to git and check on Tuf to see whether the changes reflect there too.
+
 import pygame
 import sys
 from game import Game
